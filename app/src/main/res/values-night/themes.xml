@@ -1,7 +1,7 @@
 <resources>
     <style name="Theme.PowerButtonSettings" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
-        <item name="colorPrimary">@color/pink</item>
-        <item name="colorSecondary">@color/pink</item>
+        <item name="colorPrimary">@color/blue_gray</item>
+        <item name="colorSecondary">@color/blue_gray</item>
         <item name="android:statusBarColor">?colorSurface</item>
         <item name="android:navigationBarColor">?colorSurface</item>
     </style>
