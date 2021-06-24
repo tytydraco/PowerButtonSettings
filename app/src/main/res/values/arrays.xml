@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="long_press_values">
+        <item>null</item>
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+    </string-array>
+    <string-array name="long_press_entries">
+        <item>Unset; system default</item>
+        <item>Nothing</item>
+        <item>Power menu</item>
+        <item>Power off (with confirmation)</item>
+        <item>Power off (without confirmation)</item>
+        <item>Voice assist</item>
+        <item>Assistant</item>
+    </string-array>
+
+    <string-array name="very_long_press_values">
+        <item>null</item>
+        <item>0</item>
+        <item>1</item>
+    </string-array>
+    <string-array name="very_long_press_entries">
+        <item>Unset; system default</item>
+        <item>Nothing</item>
+        <item>Power menu</item>
+    </string-array>
+</resources>
